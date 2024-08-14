@@ -1,0 +1,8 @@
+1 Florianopolis
+2 Sao Jose
+3 Biguacu
+4 Palhoca
+5 Antonio Carlos
+(1,2,11)
+(2,3,13)(2,4,9)
+(3,4,22)(3,5,16)
